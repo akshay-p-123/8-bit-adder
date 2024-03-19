@@ -3,7 +3,7 @@
 The code and schematics for an 8-bit adder that utilizes lookahead carry.
 
 ### How to Use
-Clone the repo and run main.py
+Clone the repo and run main.py.
 
 ### Circuit Diagram
 Circuitverse link: https://circuitverse.org/users/231202/projects/lookaheadcarry
